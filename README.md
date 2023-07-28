@@ -1,4 +1,4 @@
-# Introduction to 16S Data Analysis with DADA2
+# Introduction to Trajectory Analysis with Monocle3
 
 ## Learning Objectives
 
