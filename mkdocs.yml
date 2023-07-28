@@ -1,5 +1,5 @@
-site_name: Introduction to 16S Data Analysis with DADA2
-repo_url: https://github.com/best-tufts/intro_to_16S
+site_name: Bioinformatics Education and Services at Tufts 
+repo_url: https://github.com/best-tufts/intro_to_trajectory_analysis
 edit_uri: blob/main/docs/
 
 theme:
@@ -74,7 +74,7 @@ extra_javascript:
 
 nav:
     - Workshop Materials : 
-        - "Introduction": trajectoryAnalysis/00_background.md
+        - "Introduction To Trajectory Analysis": trajectoryAnalysis/00_background.md
         - "Setup and Monocle3 Objects": trajectoryAnalysis/01_setup_and_monocle.md
         - "Monocle3 Workflow and Trajectory Analysis": trajectoryAnalysis/02_monocle_setup_and_trajectory_analysis.md
         - "Pseudotime and Differential Expression": trajectoryAnalysis/03_pseudotime_and_differential_expression.md
