@@ -2,13 +2,10 @@
 
 ## Learning Objectives
 
-- Understand 16S Amplicon Sequencing Data Background
-- Apply appropriate quality control measures
-- Understand DADA2 error model and how sequence variants are inferred
-- Merging chimeric reads and assigning taxonomy
-- How to perform diversity analysis
-- How to perform differential abundance analysis
+- Setup and Monocle3 Objects
+- Monocle Workflow and Trajectory Analysis
+- Pseudotime and Differential Expression
 
-  ## Workshop Website
+## Workshop Website
 
-  [https://best-tufts.github.io/intro_to_16S/intro16S/01_metabarcoding-intro/](https://best-tufts.github.io/intro_to_16S/intro16S/01_metabarcoding-intro/)
+[https://best-tufts.github.io/intro_to_trajectory_analysis/trajectoryAnalysis/00_background/](https://best-tufts.github.io/intro_to_trajectory_analysis/trajectoryAnalysis/00_background/)
